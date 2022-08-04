@@ -56,20 +56,6 @@
       "description": "Mara Jade Skywalker was a Force-sensitive human female who was during different times in her life, an Emperor's Hand, a smuggler, and later a Jedi Master who sat upon the Jedi High Council. She was raised as a servant and assassin to Emperor Palpatine and became a high-level Force-using operative. As an Emperor's Hand, Jade carried out the Emperor's bidding, killing Rebels and corrupt Imperials alike with cold professionalism, even as a young woman.",
       "src": "assets/images/smugglers/jara_made.jpg"
     },
-    {
-      "id": 4,
-      "name": "Ahsoka Tano",
-      "ship": "Star Scavenger",
-      "nave": "Carroñero estrella",
-      "planet": "Kashyyyk",
-      "description": "Ahsoka Tano was a Force-sensitive Togruta female former Jedi Padawan who, after the Clone Wars, helped establish a network of various rebel cells against the Galactic Empire. Tano was discovered on her homeworld of Shili by Jedi Master Plo Koon, who brought her to the Jedi Temple on Coruscant to receive Jedi training.",
-      "descripcion": "Ahsoka Tano, apodada por su Maestro como «Sabionda», «Chulita» o «Mocosa», fue una Padawan Jedi togruta que, tras las Guerras Clon, ayudó a establecer una red de células rebeldes para combatir al Imperio Galáctico. Tano fue descubierta en su planeta natal Shili por el Maestro Jedi Plo Koon, quien la llevó al Templo Jedi de Coruscant para que fuese entrenada en las artes Jedi.",
-      "src": "https://lumiere-a.akamaihd.net/v1/images/5cb3c849d5de240001a05880-image_c6729179.jpeg?region=336%2C0%2C864%2C864",
-      "specie": "Togruta",
-      "especie": "Togruta",
-      "shipId": 1,
-      "planetId": 2
-    }
   ],
   "ships": [
     {
